@@ -7,15 +7,15 @@ order: 1
 # 👋 Hey, I'm Tark Patel  
 
 **Machine Learning Engineer | Data Scientist**  
-Passionate about AI, Deep Learning, and data-driven solutions, I thrive on building AI models that solve real-world problems.
+Passionate about AI, Deep Learning, and data-driven solutions, I specialize in designing AI-driven solutions that address real-world challenges, leveraging Machine Learning and Deep Learning techniques.
 
 
 ## 🛠 Skills  
 
 - **Programming:** Python, SQL
+- **Machine Learning:** Scikit-learn, NLP ,XGBoost, KNN, SVM
+- **Deep Learning:** TensorFlow, CNNs, RNNs
 - **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib  
-- **Machine Learning:** Scikit-learn, XGBoost, KNN, SVM  
-- **Deep Learning:** TensorFlow, CNNs, RNNs  
 - **Big Data:** Apache Spark, Hadoop  
 - **Data Visualization:** Tableau, Power BI, Matplotlib  
 - **Cloud & Deployment:** Hugging Face, AWS, Docker  
@@ -37,4 +37,6 @@ Passionate about AI, Deep Learning, and data-driven solutions, I thrive on build
 
 - 📧 **Email:** pateltark424@gmail.com 
 - 💼 **LinkedIn:** [tarkpatel](https://www.linkedin.com/in/tark-patel/)  
-- 📂 **GitHub:** [tarkpatel](https://github.com/tarkptel)  
+- 📂 **GitHub:** [tarkpatel](https://github.com/tarkptel)
+  
+**👉 Feel free to connect with me for collaborations, discussions, or AI projects!**
