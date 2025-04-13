@@ -8,7 +8,9 @@ Build a model to detect whether two Quora questions are duplicates using NLP and
 ### 🔍 Overview
 This project tackles the problem of semantic similarity between question pairs. By combining custom feature engineering with deep text preprocessing, the model learns to classify whether two questions convey the same meaning.<br><br>
 
-
+### 🔗 Links  
+- 🔥 **Live Demo:** [Try the App](https://huggingface.co/spaces/tensorboy0101/pneumonia_detection)  
+- 🛠 **GitHub Repo:** [View on GitHub](https://github.com/tarkptel/Duplicate-Question-Detector/tree/main)  <br><br>
 
 
 ### ⚙️ Key Features & Workflow
@@ -83,14 +85,4 @@ These features are designed to capture lexical, syntactic, and fuzzy similaritie
 - **Libraries:** Pandas, NumPy, NLTK, FuzzyWuzzy, TensorFlow/Keras, Scikit-learn, XGBoost  
 - **Tools:** Jupyter Notebook, Git, GitHub <br><br>
 
-
-
-### 📎 Resources
-
-- 🔗 [GitHub Repository](https://github.com/tarkptel/Duplicate-Question-Detector/tree/main)  <br><br>
-
-
-
-### 🚀 Live Demo
-
-- [Click Here](https://huggingface.co/spaces/tarkpatel/duplicate-question-detector)
+## If you like this project, don't forget to give a ⭐ on GitHub! 😊  
