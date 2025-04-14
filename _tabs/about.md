@@ -4,7 +4,7 @@ icon: fas fa-user
 order: 1
 ---
 
-# 👋 Hey, I'm Tark Patel  
+# 📍 Hey, I'm Tark Patel  
 
 **Machine Learning Engineer | Data Scientist**  
 Passionate about AI, Deep Learning, and data-driven solutions, I specialize in designing AI-driven solutions that address real-world challenges, leveraging Machine Learning and Deep Learning techniques.
@@ -14,10 +14,10 @@ Passionate about AI, Deep Learning, and data-driven solutions, I specialize in d
 
 - **Programming:** Python, SQL
 - **Machine Learning:** Scikit-learn, NLP ,XGBoost, KNN, SVM
-- **Deep Learning:** TensorFlow, CNNs, RNNs
+- **Deep Learning:** TensorFlow, ANNs, CNNs, RNNs, LSTM
 - **Data Analysis:** Pandas, NumPy, Seaborn, Matplotlib  
-- **Big Data:** Apache Spark, Hadoop  
-- **Data Visualization:** Tableau, Power BI, Matplotlib  
+- **Big Data:** Spark, Hadoop  
+- **Data Visualization:** Power BI, Matplotlib  
 - **Cloud & Deployment:** Hugging Face, AWS, Docker  
 
 ## 🎓 Education  
@@ -38,5 +38,6 @@ Passionate about AI, Deep Learning, and data-driven solutions, I specialize in d
 - 📧 **Email:** pateltark424@gmail.com 
 - 💼 **LinkedIn:** [tarkpatel](https://www.linkedin.com/in/tark-patel/)  
 - 📂 **GitHub:** [tarkpatel](https://github.com/tarkptel)
+- 💡 **Kaggle:** [tarkpatel](https://www.kaggle.com/tark01)
   
 **👉 Feel free to connect with me for collaborations, discussions, or AI projects!**
