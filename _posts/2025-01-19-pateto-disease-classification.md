@@ -27,7 +27,7 @@ This project helps farmers and agricultural experts **diagnose potato plant dise
 4️⃣ Users receive **disease classification results** instantly.  
 
 ## 🌍 Live Demo  
-🔗 **Web App:** [Potato Disease Classifier](https://huggingface.co/spaces/tensorboy0101/test)  
+🔗 **Web App:** [Potato Disease Classifier](https://huggingface.co/spaces/tarkpatel/potato-disease-classifier)  
 
 ## 💻 Source Code  
 🔗 **GitHub Repository:** [GitHub Link](https://github.com/tarkptel/potato-disease-classification)  
