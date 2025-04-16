@@ -12,7 +12,7 @@ This is a deep learning-based **Pneumonia Disease Detection** web application.
 Users can upload **chest X-ray images**, and the model will predict whether the patient has **Pneumonia or is Normal** using **Convolutional Neural Networks (CNNs).**  
 
 ### 🔗 Links  
-- 🔥 **Live Demo:** [Try the App](https://huggingface.co/spaces/tensorboy0101/pneumonia_detection)  
+- 🔥 **Live Demo:** [Try the App](https://huggingface.co/spaces/tarkpatel/pneumonia_detection)  
 - 🛠 **GitHub Repo:** [View on GitHub](https://github.com/tarkptel/Pneumonia-Detection-Using-Deep-Learning)  
 
 ### 🚀 Skills & Tools Used  
