@@ -89,4 +89,15 @@ These features are designed to capture lexical, syntactic, and fuzzy similaritie
 - NLTK / spaCy (for preprocessing)
 - Jupyter Notebook <br><br>
 
-## ⭐ *Feel free to fork or star this repo if you found it helpful!* 😊  
+## 🌐 Deployment
+
+This project is deployed on **Hugging Face Spaces** using `Gradio` as a frontend.
+
+🚀 **Live Demo:** [Click Here to Try the App](https://huggingface.co/spaces/tarkpatel/duplicate-question-detector)
+
+- Enter two questions.
+- The model will tell you if they're likely duplicates.
+- Built with a simple and clean Gradio interface for fast user interaction.
+
+
+## ⭐ Feel free to fork or star this repo if you found it helpful! 😊  
