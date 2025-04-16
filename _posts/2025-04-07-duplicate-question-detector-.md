@@ -6,7 +6,7 @@ This project uses an **LSTM (Long Short-Term Memory)** model to identify whether
 This project tackles the problem of semantic similarity between question pairs. By combining custom feature engineering with deep text preprocessing, the model learns to classify whether two questions convey the same meaning.<br><br>
 
 ### 🔗 Links  
-- 🔥 **Live Demo:** [Try the App](https://huggingface.co/spaces/tarkpatel/duplicate-question-detector?logs=container)  
+- 🔥 **Live Demo:** [Try the App](https://huggingface.co/spaces/tarkpatel/duplicate-question-detector)  
 - 🛠 **GitHub Repo:** [View on GitHub](https://github.com/tarkptel/Duplicate-Question-Detector/tree/main)  <br><br>
 
 
