@@ -1,9 +1,6 @@
 ## 🔥 Quora Duplicate Question Detection
 
-**Objective:**  
-Build a model to detect whether two Quora questions are duplicates using NLP and Machine Learning techniques.<br><br>
-
-
+This project uses an **LSTM (Long Short-Term Memory)** model to identify whether two questions from the Quora dataset are semantically similar (duplicates).<br><br>
 
 ### 🔍 Overview
 This project tackles the problem of semantic similarity between question pairs. By combining custom feature engineering with deep text preprocessing, the model learns to classify whether two questions convey the same meaning.<br><br>
@@ -17,7 +14,7 @@ This project tackles the problem of semantic similarity between question pairs. 
 
 This project combines structured feature engineering with deep text preprocessing to model the semantic similarity between two questions.
 
-#### 🔢 Feature Engineering (22 Features)
+#### 🚀 Feature Engineering (22 Features)
 These features are designed to capture lexical, syntactic, and fuzzy similarities between question pairs:
 
 - **`q1_len`** – Number of characters in Question 1  
@@ -45,7 +42,7 @@ These features are designed to capture lexical, syntactic, and fuzzy similaritie
 
 
 
-#### Text Preprocessing Workflow
+#### 🌟 Text Preprocessing Workflow
 
 1. **Lowercasing & Cleaning**
    - Removed punctuation, special characters, and HTML tags.
@@ -63,6 +60,13 @@ These features are designed to capture lexical, syntactic, and fuzzy similaritie
    - Used pre-trained embeddings or trained embeddings from scratch. <br><br>
 
 
+### 📦 Model Architecture
+
+- **Embedding Layer:** To convert text to dense vectors.
+- **LSTM Layers:** Capture sequential dependencies in both questions.
+- **Concatenation:** Combine features from both questions.
+- **Dense Layers:** For final binary classification.<br><br>
+
 
 #### 📌 Final Workflow
 
@@ -70,19 +74,19 @@ These features are designed to capture lexical, syntactic, and fuzzy similaritie
    - Text sequences + engineered features combined to form a vector of shape **(1, 518)**.
 
 2. **Model Selection**
-   - XGBoost for fast training with tabular + text features.
-   - Neural Network for modeling deeper semantic relationships.
-
+   - Applied **LSTM** to capture semantic similarity between question pairs more effectively and boost performance.
+   
 3. **Evaluation**
    - Measured accuracy, F1-score, precision, recall on validation set.
    - Used confusion matrix and ROC curve for analysis.<br><br>
 
 
+## 🚀 Tech Stack
 
-### 💻 Tech Stack
+- Python
+- TensorFlow / Keras
+- Pandas, NumPy
+- NLTK / spaCy (for preprocessing)
+- Jupyter Notebook <br><br>
 
-- **Languages:** Python  
-- **Libraries:** Pandas, NumPy, NLTK, FuzzyWuzzy, TensorFlow/Keras, Scikit-learn, XGBoost  
-- **Tools:** Jupyter Notebook, Git, GitHub <br><br>
-
-## If you like this project, don't forget to give a ⭐ on GitHub! 😊  
+## ⭐ *Feel free to fork or star this repo if you found it helpful!* 😊  
