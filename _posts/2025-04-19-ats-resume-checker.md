@@ -1,12 +1,12 @@
-
+---
 title: "ATS Resume Score Checker using Gemini 1.5"
 date: 2025-04-19 12:00:00 +0530
 categories: [AI Tools, NLP]
 tags: [gemini, ats, resume, huggingface, streamlit, vision, nlp]
 pin: true
+---
 
-
-🚀 I built and deployed an **AI-powered ATS Resume Score Checker** using [Google Gemini 1.5](https://ai.google.dev/) and deployed it on [Hugging Face Spaces](https://huggingface.co/spaces)!
+🚀 I built and deployed an **AI-powered ATS Resume Score Checker** using [Google Gemini 1.5](https://ai.google.dev/) and deployed it on [Hugging Face Spaces](https://huggingface.co/spaces)! <br><br>
 
 
 
@@ -14,15 +14,15 @@ pin: true
 
 **ATS (Applicant Tracking Systems)** are widely used to screen resumes before human eyes even see them. This tool simulates an ATS system — it evaluates your resume (in PDF form) against a job description and:
 
-- 📊 Gives a **match percentage**
-- 🧠 Lists **missing keywords**
-- 💡 Provides **feedback & suggestions**
+-  Gives a **match percentage**
+-  Lists **missing keywords**
+-  Provides **feedback & suggestions**
 
-The system uses **Gemini 1.5 Flash** to process and understand the content of uploaded resumes and compare them to job requirements using natural language understanding.
+The system uses **Gemini 1.5 Flash** to process and understand the content of uploaded resumes and compare them to job requirements using natural language understanding. <br><br>
 
 
 
-## 🧩 Workflow
+## 🌟 Workflow
 
 1. **User Enters Job Description**  
    - Text area input via Streamlit.
@@ -36,11 +36,11 @@ The system uses **Gemini 1.5 Flash** to process and understand the content of up
 
 4. **Gemini Model Evaluation**  
    - Two prompt options:
-     - 🧠 *Resume Quality Evaluation*
-     - 📊 *ATS Match Percentage*
+     -  *Resume Quality Evaluation*
+     -  *ATS Match Percentage*
 
 5. **Output Display**  
-   - Streamlit displays Gemini’s response: percentage match, missing keywords, strengths/weaknesses, and improvement tips.
+   - Streamlit displays Gemini’s response: percentage match, missing keywords, strengths/weaknesses, and improvement tips. <br><br>
 
 
 
@@ -49,30 +49,28 @@ The system uses **Gemini 1.5 Flash** to process and understand the content of up
 - **Frontend**: Streamlit
 - **Backend AI**: Google Gemini 1.5 Flash (via GenerativeAI API)
 - **Deployment**: Hugging Face Spaces
-- **PDF Parsing**: `pdf2image` + `PIL`
+- **PDF Parsing**: `pdf2image` + `PIL`. <br><br>
 
 
 
 ## 💻 Live Demo
 
-👉 Try the app here: [ATS Resume Checker on Hugging Face](https://your-hugging-face-link.hf.space)
+👉 Try the app here: [**ATS Resume Checker on Hugging Face**](https://huggingface.co/spaces/tarkpatel/ATS-Tracking-System)
 
-🧠 Source code available here: [GitHub Repo](https://github.com/yourusername/ats-resume-checker)
+👉 Source code available here: [**GitHub Repo**](https://github.com/tarkptel/ats-resume-tracking-system)  <br><br>
 
 
 
 ## 📸 Screenshots
 
-_Add screenshots or a short GIF of your app in action here_
-
-
+![ATS Tracking System](/assets/images/ATS-Tracking-System-a-Hugging-Face-Space-by-tarkpatel-04-19-2025_06_25_PM.png)  <br><br>
 
 ## ✅ What I Learned
 
 - How to use **Gemini 1.5 Vision** for multi-modal AI (text + image input)
 - Building full AI apps with **Streamlit**
 - Deploying AI apps on Hugging Face Spaces
-- Understanding how **ATS systems** parse resumes
+- Understanding how **ATS systems** parse resumes  <br><br>
 
 
 
@@ -85,4 +83,4 @@ _Add screenshots or a short GIF of your app in action here_
 
 
 
-Thanks for reading! Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/your-profile) or star the repo on GitHub ⭐
+Thanks for reading! Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/tark-patel/) or star the repo on GitHub ⭐
