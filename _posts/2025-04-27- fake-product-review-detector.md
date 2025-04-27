@@ -6,9 +6,6 @@ tags: [ML, huggingface, streamlit, vision, nlp]
 ---
 
 
-# 🏆 Fake Product Review Detector <br><br>
-
-
 ## 🚀 1. Overview / Summary (The Elevator Pitch)
 
 Fake product reviews have become a serious issue in today's e-commerce world, misleading customers into making poor buying decisions.  
