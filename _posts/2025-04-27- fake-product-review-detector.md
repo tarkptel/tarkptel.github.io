@@ -1,3 +1,11 @@
+---
+title: "Fake Product Review Detector"
+date: 2025-04-19 12:00:00 +0530
+categories: [AI Tools, NLP]
+tags: [ML, huggingface, streamlit, vision, nlp]
+---
+
+
 # 🏆 Fake Product Review Detector
 
 
@@ -8,7 +16,7 @@ I set out to solve this problem by building a **Fake Product Review Detector** �
 Built using **Streamlit** and a **custom trained machine learning model**, the app is fast, easy to use, and aims to bring more trust to online shopping.
 
 ## 🌍  2. Live Demo
-![Movie Recommendation System](/assets/images/mr2.png)
+![Movie Recommendation System](/assets/images/fake-review.png)
 
 - 🔗 _**Live demo:** [**Hugging Face Spaces**](https://huggingface.co/spaces/tarkpatel/Fake_Review_Detector)_
 - 🔗 _**GitHub Repository:** [**GitHub Link**](https://github.com/tarkptel/Fake_Review_Detector)_
