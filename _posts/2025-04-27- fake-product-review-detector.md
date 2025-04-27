@@ -1,6 +1,6 @@
 ---
 title: "Fake Product Review Detector"
-date: 2025-04-19 12:00:00 +0530
+date: 2025-04-27 12:00:00 +0530
 categories: [AI Tools, NLP]
 tags: [ML, huggingface, streamlit, vision, nlp]
 ---
