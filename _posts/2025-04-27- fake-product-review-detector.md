@@ -6,20 +6,20 @@ tags: [ML, huggingface, streamlit, vision, nlp]
 ---
 
 
-# 🏆 Fake Product Review Detector
+# 🏆 Fake Product Review Detector <br><br>
 
 
 ## 🚀 1. Overview / Summary (The Elevator Pitch)
 
 Fake product reviews have become a serious issue in today's e-commerce world, misleading customers into making poor buying decisions.  
 I set out to solve this problem by building a **Fake Product Review Detector** — a lightweight, ML-powered web application where users can input any review text and instantly find out if it's fake or genuine.  
-Built using **Streamlit** and a **custom trained machine learning model**, the app is fast, easy to use, and aims to bring more trust to online shopping.
+Built using **Streamlit** and a **custom trained machine learning model**, the app is fast, easy to use, and aims to bring more trust to online shopping. <br><br>
 
 ## 🌍  2. Live Demo
-![Movie Recommendation System](/assets/images/fake-review.png)
+![Fake Product Review Detector System](/assets/images/fake-review.png) <br><br>
 
 - 🔗 _**Live demo:** [**Hugging Face Spaces**](https://huggingface.co/spaces/tarkpatel/Fake_Review_Detector)_
-- 🔗 _**GitHub Repository:** [**GitHub Link**](https://github.com/tarkptel/Fake_Review_Detector)_
+- 🔗 _**GitHub Repository:** [**GitHub Link**](https://github.com/tarkptel/Fake_Review_Detector)_ <br><br>
 
 
 
@@ -29,7 +29,7 @@ With millions of products being sold online, it's nearly impossible for customer
 Fake reviews can manipulate customer trust, inflate product ratings, and result in wasted money and bad experiences.
 
 **Motivation:**  
-I wanted to work on a real-world problem that merges **machine learning** and **ethical AI** — creating a tool that helps people make smarter and safer shopping decisions.
+I wanted to work on a real-world problem that merges **machine learning** and **ethical AI** — creating a tool that helps people make smarter and safer shopping decisions. <br><br>
 
 
 ## 📚 3. Dataset
@@ -40,7 +40,7 @@ Each review is associated with a label that indicates its authenticity, allowing
 **Key Features of the Dataset:**
 - Text-based reviews
 - Labels: 0 (Genuine), 1 (Fake)
-- Moderate size (~few thousand entries)
+- Moderate size (~few thousand entries) <br><br>
 
 
 
@@ -61,7 +61,7 @@ Here's how I approached solving the problem:
    - Users input a review and receive a prediction in real time.
 
 4. **Deployment:**  
-   - Streamlined the app for lightweight deployment and quick access.
+   - Streamlined the app for lightweight deployment and quick access. <br><br>
 
 
 
@@ -72,17 +72,17 @@ Here's how I approached solving the problem:
 - Created a web app that is **simple, fast, and effective** — users can get results within seconds.
 
 **Key Learning:**  
-Even simple models, when applied thoughtfully, can solve real-world problems effectively.
+Even simple models, when applied thoughtfully, can solve real-world problems effectively. <br><br>
 
 
 
-## 🧩 7. Challenges and Solutions
+## 🚀 7. Challenges and Solutions
 
 | Challenge | Solution |
 |-----------|----------|
 | Handling noisy and inconsistent review data | Applied thorough text preprocessing and experimented with different NLP techniques. |
 | Balancing model complexity with deployment speed | Chose models like **RandomForest Classifier** over heavy deep learning models to ensure quick predictions. |
-| Building a clean user interface | Used Streamlit for its simplicity and rapid prototyping features. |
+| Building a clean user interface | Used Streamlit for its simplicity and rapid prototyping features. | <br><br>
 
 
 
@@ -90,14 +90,14 @@ Even simple models, when applied thoughtfully, can solve real-world problems eff
 
 - **Expand Dataset:** Train the model on a larger and more diverse set of product reviews.
  **Integrate Product Review APIs:** Automatically fetch all reviews for a product (using APIs like Amazon Product Advertising API or RapidAPI services) so users can analyze multiple reviews at once instead of manually entering text.
-- **Model Improvements:** Experiment with more advanced NLP models like BERT or LSTM for even higher accuracy.
+- **Model Improvements:** Experiment with more advanced NLP models like BERT or LSTM for even higher accuracy. <br><br>
 
 
 # 🌟 Final Thoughts
 
 Building this project taught me the real-world impact of applying AI for social good.  
 It also showed me that sometimes **small, focused tools can make a big difference** in people's daily lives.  
-I'm excited to continue exploring projects where **Machine Learning meets everyday human trust**.
+I'm excited to continue exploring projects where **Machine Learning meets everyday human trust**. <br><br>
 
 Thank you for reading! 🚀
 
