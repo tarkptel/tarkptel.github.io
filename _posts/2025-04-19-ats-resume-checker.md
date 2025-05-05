@@ -4,6 +4,7 @@ date: 2025-04-19 12:00:00 +0530
 categories: [AI Tools, NLP]
 tags: [gemini, ats, resume, huggingface, streamlit, vision, nlp]
 pin: true
+published: false
 ---
 
 🚀 I built and deployed an **AI-powered ATS Resume Score Checker** using [Google Gemini 1.5](https://ai.google.dev/) and deployed it on [Hugging Face Spaces](https://huggingface.co/spaces)! <br><br>
