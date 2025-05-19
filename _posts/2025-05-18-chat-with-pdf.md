@@ -4,7 +4,6 @@ date: 2025-05-19
 tags: [AI, NLP, LangChain, Streamlit, PDF, Chatbot, HuggingFace, RAG]
 ---
 
-# Chat with PDF: Building a PDF-Based Chatbot with Streamlit, LangChain & Hugging Face
 
 I’m excited to share my latest project — **Chat with PDF** — a smart chatbot that allows you to upload any PDF document and chat with its content interactively!<br><br>
 
