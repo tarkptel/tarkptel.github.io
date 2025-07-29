@@ -9,7 +9,7 @@ order: 1
 **Machine Learning Engineer | Data Scientist**  
 Passionate about AI, Deep Learning, and data-driven solutions, I specialize in designing AI-driven solutions that address real-world challenges, leveraging Machine Learning and Deep Learning techniques.
 
-[***📄 View My Resume (Google Drive)***](https://drive.google.com/file/d/1J08DivJWK4tDrdh5HQbSGs9T1YpvUejp/view?usp=sharing)
+[***📄 View My Resume (Google Drive)***](https://drive.google.com/file/d/1xRAzL6vGdN-tDLRVr0quK3UOXOH7IBg9/view?usp=drive_link)
 
 ## 🛠 Skills  
 
